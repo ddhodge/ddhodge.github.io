@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About this experiment
-parent: Home               # Makes this nested under "Home" in sidebar
+parent: Welcome               # Makes this nested under "Home" in sidebar
 nav_order: 2               # Order within its parent
 ---
 
