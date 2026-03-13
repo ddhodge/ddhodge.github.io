@@ -7,7 +7,7 @@ plugins:
   - jekyll-remote-theme
 
 # Recommended basics (add more later)
-color_scheme: light               # or "dark"
+color_scheme: dark               # or "dark"
 search_enabled: true              # built-in search bar
 aux_links:                        # top-right links (optional)
   GitHub Repo:
