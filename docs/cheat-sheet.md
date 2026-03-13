@@ -8,6 +8,9 @@ toc: true
 toc_sticky: true
 ---
 
+{:toc}
+
+
 # Just the Docs – 5-Step Quick Reference
 
 A minimal cheat sheet for getting started with Just the Docs on GitHub Pages (remote_theme).
@@ -95,8 +98,7 @@ Navigation rules
 - Use `has_children: true` on parents to make them collapsible.
 - Sort is purely by `nav_order` within each level (no alphabetical fallback).
 
-
-### 3. Navigation Hierarchy Example
+## 3. Navigation Hierarchy Example
 
 ```yaml
 # Home (index.md)
@@ -166,7 +168,7 @@ Since you're familiar with Hugo/Docsy:
 
 | Aspect | Hugo / Docsy | Just the Docs (Jekyll) |
 | --- | --- | --- |
-| Navigation building | Automatic from content tree + menus config | Explicit via front matter (nav_order, parent) — no auto from folders
+| Navigation building | Automatic from content tree + menus config | Explicit via front matter (nav_order, parent) — no auto from folders |
 | Sections hierarchy | Deep, folder-based + archetypes | Flat + manual nesting (parent/grand_parent) |
 | Search | Lunr or Algolia (configurable) | Built-in Lunr.js (good enough, lightweight) |
 | Themes / colors | SCSS vars + dark/light toggle often built-in | color_scheme: dark/light/custom + easy SCSS overrides |
