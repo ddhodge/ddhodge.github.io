@@ -14,8 +14,8 @@ Slate gives you:
 
 ## Quick navigation
 
-- [About this test](/about/)
-- [Another page in subfolder](/guides/example/)
-- [Markdown demo](/markdown-test/)
+- [About this test](about/)
+- [Another page in subfolder](guides/example/)
+- [Markdown demo](markdown-test/)
 
 Feel free to edit me — I'm just index.md
