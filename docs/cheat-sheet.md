@@ -8,12 +8,14 @@ toc: true
 toc_sticky: true
 ---
 
-{:toc}
-
-
 # Just the Docs – 5-Step Quick Reference
 
 A minimal cheat sheet for getting started with Just the Docs on GitHub Pages (remote_theme).
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+{:toc}
 
 ## 1. _config.yml Essentials
 
