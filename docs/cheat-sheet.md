@@ -15,6 +15,7 @@ A minimal cheat sheet for getting started with Just the Docs on GitHub Pages (re
 ## Table of Contents
 {: .no_toc .text-delta }
 
+1. TOC
 {:toc}
 
 ## 1. _config.yml Essentials
@@ -108,7 +109,7 @@ nav_order: 1
 has_children: true
 
 # Guides (guides.md)
-parent: Home
+parent: Welcome
 nav_order: 2
 has_children: true
 
