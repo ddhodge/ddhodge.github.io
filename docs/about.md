@@ -1,10 +1,11 @@
 ---
 layout: default
 title: About this experiment
-permalink: /about/
+parent: Home               # Makes this nested under "Home" in sidebar
+nav_order: 2               # Order within its parent
 ---
 
-This site is just me testing Jekyll + Slate theme.
+This site is just me testing Jekyll + Just the Docs theme.
 
 Some front matter you might use:
 

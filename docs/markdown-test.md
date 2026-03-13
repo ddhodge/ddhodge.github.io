@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Markdown & Features Test
+parent: Home               # Makes this nested under "Home" in sidebar
+nav_order: 2               # Order within its parent
 ---
 
 # Heading 1

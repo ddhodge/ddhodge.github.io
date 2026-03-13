@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Welcome
+nav_order: 1               # Lower number = higher in sidebar
+has_children: true         # If you plan to add child pages under it
 ---
 
-# Hello from Slate!
+# Welcome to the Docs!
 
 This is your **home page**.
 

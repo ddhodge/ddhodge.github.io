@@ -1,10 +1,15 @@
-title: My site title
-description: Playing with Jekyll + Slate theme on GitHub Pages
+title: My Docs Site
+description: Playing with Jekyll + Just the Docs theme on GitHub Pages
 
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
 
-markdown: kramdown
-highlighter: rouge
+# Recommended basics (add more later)
+color_scheme: light               # or "dark"
+search_enabled: true              # built-in search bar
+aux_links:                        # top-right links (optional)
+  GitHub Repo:
+    - "//github.com/yourusername/your-repo"
+    - "//github.com/yourusername/your-repo/blob/main/README.md"  # example extra
